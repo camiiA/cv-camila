@@ -1,0 +1,11 @@
+$.ajax({
+  URL: ' https://randomuser.me/api/ ',
+  tipo de datos: ' ralon ',
+  éxito: función ( datos ) {
+    consola.log( datos );
+  }
+});
+      
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tilt+Neon&family=Tilt+Prism&display=swap" rel="stylesheet">
